@@ -42,8 +42,7 @@ Projenizin çalışabilmesi için aşağıdaki dosyaların proje klasörünüzde
 
 ## 📸 Ekran Görüntüsü
 
-![CatchTheTurtle](https://github.com/user-attachments/assets/9e7f96b4-3cf3-4be8-bd57-1b0d5ea2d7a4)
-
+![CatchTheTurtle](https://github.com/user-attachments/assets/de264fd9-cc12-4b6b-8d09-3712075e372e)
 
 ---
 Python Turtle ile ❤️ sevgiyle kodlandı.
